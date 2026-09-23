@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Labb - Bygg din egen lokala AI-agent i C#/1.0.0": {
+        "runtime": {
+          "Labb - Bygg din egen lokala AI-agent i C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labb - Bygg din egen lokala AI-agent i C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
